@@ -10,7 +10,7 @@ Time;
 Time;
 Time;
 		writeln(Name,'の　まりょくが　１あがった！');
-Time;
+Time;;
 		writeln(Name,'の　ぼうぎょりょくが　１あがった！');
 		vMagicPower:=MagicPower + 1;
 		vTough:=Tough + 1;
