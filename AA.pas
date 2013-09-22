@@ -23,6 +23,5 @@ writeln('　　　　　　　∠二_/ ./ ＼　　　./　＼ ＼');
 writeln('　　　　　　　　　 ./／　ヽ...ゝ　___ノ　￣`''-､,_');
 writeln('　　　　　　　　　　　　　　　　＜__,,.--,　＼--ゝ');
 writeln('　　　　　　　　　　　　　　　　　　　　　 ＼| ');
-writeln('　　　　　　　　　　　　　　　　　　　　　     ');
 end;
 
